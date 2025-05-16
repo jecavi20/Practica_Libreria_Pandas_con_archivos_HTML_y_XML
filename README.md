@@ -10,7 +10,7 @@ Cargar Dataframe con Pandas con archivos HTML y XML
 
 ✅ Analisis realizados:
 
-- Importar el archivo html )
+- Importar el archivo html
 - Cargar el dataframe con pandas (Se encuentra en formato lista, ya que contiene varias tablas html)
 - Seleccionar la tabla a utilizar de la lista
 - Exportar el Dataframe en formato csv
